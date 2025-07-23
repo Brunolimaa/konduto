@@ -1,0 +1,2 @@
+# konduto
+Simplified risk model
