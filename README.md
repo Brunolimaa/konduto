@@ -27,7 +27,6 @@ Clone this repository to your local machine:
 git clone https://github.com/Brunolimaa/konduto.git
 cd tracker
 
-git checkout master
 ```
 
 
